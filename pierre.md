@@ -133,3 +133,8 @@ sequenceDiagram
 - PubSub: `internal/pubsub/broker.go`
 - Messages UI: `internal/tui/components/chat/messages/messages.go`
 - Tools: `internal/llm/tools/*.go`
+
+
+# analisys
+
+
